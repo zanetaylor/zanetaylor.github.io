@@ -6,6 +6,6 @@
   "sort": "created",
   "order": "asc",
   "includeFork": false,
-  "theme": "dark.css"
+  "theme": "light.css"
  }
 ]
